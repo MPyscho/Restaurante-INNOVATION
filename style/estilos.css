@@ -1,8 +1,8 @@
 h1{
-    font-family: fantasy;font-style: italic;font-size: large;color: cornflowerblue;
+    font-family: fantasy;font-style: italic;font-size: xx-large;color: cornflowerblue;
 }
 h2{
-    font-family: monospace; font-style: oblique; font-size: smaller;color: darkcyan;
+    font-family: monospace; font-style: oblique; font-size: 60%;color: darkcyan;
 }
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style:
