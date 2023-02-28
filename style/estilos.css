@@ -4,7 +4,11 @@ h1{
 h2{
     font-family: fantasy; font-style: oblique; font-size: x-large;color: darkcyan;
 }
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-style: initial;color: cadetblue;
+}
 p{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style:
-    normal;font-size: medium; color: rgb(39, 38, 38);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style:normal;font-size: medium; color: rgb(39, 38, 38);
 }
